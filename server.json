@@ -1,10 +1,10 @@
 {
     "schema_version":  1,
     "server_name":  "Mirozdanie Genesis",
-    "server_url":  "https://3c854d68a3383603-89-222-104-121.serveousercontent.com",
+    "server_url":  "https://73857b305c667743-84-20-4-225.serveousercontent.com",
     "invite_token":  "c0619c9a3abe3b198993acd32c44c274b38c95a001dcba5e",
     "world":  "Genesis",
     "transport":  "http-msgpack-v1",
     "status":  "online",
-    "updated_utc":  "2026-08-27T23:37:15.2511882Z"
+    "updated_utc":  "2026-08-27T23:47:16.8341908Z"
 }
