@@ -1,10 +1,10 @@
 {
     "schema_version":  1,
     "server_name":  "Mirozdanie Genesis",
-    "server_url":  "https://91615790740aa2.lhr.life",
+    "server_url":  "https://8c96b975b361ac0b-212-102-62-65.serveousercontent.com",
     "invite_token":  "c0619c9a3abe3b198993acd32c44c274b38c95a001dcba5e",
     "world":  "Genesis",
     "transport":  "http-msgpack-v1",
     "status":  "online",
-    "updated_utc":  "2026-08-27T22:51:23.7867528Z"
+    "updated_utc":  "2026-08-27T23:08:42.2371309Z"
 }
