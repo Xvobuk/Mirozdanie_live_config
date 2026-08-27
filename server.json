@@ -1,10 +1,10 @@
 {
     "schema_version":  1,
     "server_name":  "Mirozdanie Genesis",
-    "server_url":  "https://senator-comm-capital-wav.trycloudflare.com",
+    "server_url":  "https://particularly-infrared-carol-bruce.trycloudflare.com",
     "invite_token":  "c0619c9a3abe3b198993acd32c44c274b38c95a001dcba5e",
     "world":  "Genesis",
     "transport":  "http-msgpack-v1",
     "status":  "online",
-    "updated_utc":  "2026-08-27T21:27:07.1008461Z"
+    "updated_utc":  "2026-08-27T21:40:08.5973864Z"
 }
