@@ -1,10 +1,10 @@
 {
     "schema_version":  1,
     "server_name":  "Mirozdanie Genesis",
-    "server_url":  "https://4f267cda2704e918-212-11-29-129.serveousercontent.com",
+    "server_url":  "https://imaging-untrimmed-fossil.ngrok-free.dev",
     "invite_token":  "c0619c9a3abe3b198993acd32c44c274b38c95a001dcba5e",
     "world":  "Genesis",
     "transport":  "http-msgpack-v1",
     "status":  "online",
-    "updated_utc":  "2026-08-28T00:07:19.2252861Z"
+    "updated_utc":  "2026-08-28T00:37:38.8795461Z"
 }
